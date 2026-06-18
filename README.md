@@ -58,7 +58,9 @@ More projects coming soon 🚀
 
 ## 📫 Connect With Me::
 📧 Email:roshnajayan198@gmail.com
+
 💼 LinkedIn:https://www.linkedin.com/in/roshna-jayan-25966b332?
+
 GitHub: You’re already here 🙂
 <!--
 **roshnajayan198-cloud/roshnajayan198-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
